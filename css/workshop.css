@@ -1,0 +1,488 @@
+
+body {
+    background-repeat: no-repeat;
+    background-size: 120%;
+    background-image: url("../Images/Base.png");
+}
+.Logo {
+    background-color: transparent;
+    background: no-repeat;
+    background-size: 60%;
+    border: none;
+    border-radius: 5px;
+    Margin-Left: 1330px;
+    margin-top: 450px;
+    position: fixed;
+}
+.Username{
+    width: 250px;
+    Margin-top: 150px;
+    Top: 150px;
+    Margin-left: 827px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Password{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 827px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Username_add{
+    width: 250px;
+    Margin-top: 150px;
+    Top: 150px;
+    Margin-left: 200px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.Password_add{
+    width: 350px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 150px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.Password_confirm{
+    width: 350px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 120px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.Remember{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 827px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Submit{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 800px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Add{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 200px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.day{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 827px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.time{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 827px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.SubmitInf{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 800px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Nav{
+    width: 280px;
+    height: 500px;
+    Margin-top: 100px;
+    top: 150px;
+    Margin-left: 120px;
+    background-color: rgba(128,128,128, 50%);
+    color: black;
+    text-align: left;
+    font-size: 16px;
+
+}
+.Nav_Task{
+    width: 90%;
+    Margin-top: 100px;
+    top: 150px;
+    Margin-left: 120px;
+    background-color: rgba(128,128,128, 50%);
+    color: black;
+    text-align: left;
+    font-size: 16px;
+
+}
+.Project{
+    width: 300px;
+    Margin-top: 150px;
+    Top: 150px;
+    Margin-left: 150px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Client{
+    width: 300px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 170px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Workload{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 220px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Description{
+    width: 250px;
+    Height: 200px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 200px;
+    position: center;
+    background-color: transparent;
+    border: dimgray;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.Employee_task{
+    width: 300px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 250px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.work_employee{
+    width: 300px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 160px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.Day{
+    width: 250px;
+    Margin-top: 200px;
+    Top: 200px;
+    Margin-left: 200px;
+    position: center;
+    background-color: transparent;
+    border: none;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Time{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 200px;
+    position: center;
+    background-color: transparent;
+    border: dimgray;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.Cancel{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 827px;
+    position: center;
+    background-color: transparent;
+    border: dimgray;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.Save{
+    width: 250px;
+    Margin-top: 10px;
+    Top: 150px;
+    Margin-left: 200px;
+    position: center;
+    background-color: transparent;
+    border: dimgray;
+    color: black;
+    text-align: center;
+    font-size: 16px;
+}
+.mButton1 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: -450px;
+    text-align: center;
+    font-size: 18px;
+}
+.mButton2 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: 20px;
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+}
+.mButton3 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+}
+.mButton4 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: 20px;
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+}
+.mButton5 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: 300px;
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+}
+.mButton6 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: 225px;
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+}
+.mButton7 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: 700px;
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+}
+.mButton8 {
+    background-color: rgba(255, 255, 255, 70%);
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    margin-right: 40px;
+    margin-left: 8px;
+    margin-top: 700px;
+    text-align: center;
+    align-content: center;
+    font-size: 18px;
+}
+.employee_box{
+    width: 90%;
+    height: 80%;
+    background-color: rgba(128,128,128, 50%);
+    Margin-top: 84px;
+    Margin-left: 100px;
+    color: black;
+}
+.task_box{
+    width: 80%;
+    height: 80%;
+    background-color: rgba(128,128,128, 50%);
+    Margin-top: 100px;
+    Margin-left: 120px;
+}
+.task_display{
+    float: left;
+    padding: 5px;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 5px;
+}
+.monday{
+    width: 90%;
+    height: 80%;
+    background-color: rgba(128,128,128, 50%);
+    Margin-top: 84px;
+    Margin-left: 100px;
+    color: black;
+}
+.tuesday{
+    width: 90%;
+    height: 80%;
+    background-color: rgba(128,128,128, 50%);
+    Margin-top: 10px;
+    Margin-left: 100px;
+    color: black;
+}
+.wednesday{
+    width: 90%;
+    height: 80%;
+    background-color: rgba(128,128,128, 50%);
+    Margin-top: 10px;
+    Margin-left: 100px;
+    color: black;
+}
+.thursday{
+    width: 90%;
+    height: 80%;
+    background-color: rgba(128,128,128, 50%);
+    Margin-top: 10px;
+    Margin-left: 100px;
+    color: black;
+}
+.friday{
+    width: 90%;
+    height: 80%;
+    background-color: rgba(128,128,128, 50%);
+    Margin-top: 10px;
+    Margin-left: 100px;
+    color: black;
+}
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+[class*="col-"] {
+    float: left;
+    padding: 15px;
+    position: static;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 10%;}
+.col-4 {width: 20%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
